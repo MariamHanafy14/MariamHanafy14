@@ -138,8 +138,8 @@ AI-powered customer support analytics and workflow automation system.
 
 * 🌐 Portfolio: https://mariamhanafy14.github.io/
 * 📧 Email: [mariamhanafy14@gmail.com](mailto:mariamhanafy14@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/mariamhanafy
-* 💻 GitHub: github.com/MariamHanafy14
+* 💼 LinkedIn: [linkedin.com/in/mariamhanafy](https://www.linkedin.com/in/mariamhanafy/)
+* 💻 GitHub: [github.com/MariamHanafy14](https://github.com/MariamHanafy14)
 
 ---
 
