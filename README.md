@@ -33,6 +33,25 @@ My interests include:
 - ⚙️ Power Query & DAX
 - 📋 Data Modeling
 
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-0F9D58?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
 ---
 
 # 🏆 Achievements
@@ -102,23 +121,6 @@ Excel dashboard analyzing 256M+ revenue using Pivot Tables and interactive visua
 
 Customer support analytics platform integrating Airtable, Power BI, workflow automation, and reporting dashboards.
 
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-7B61FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-0F9D58?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
 
 ---
 
